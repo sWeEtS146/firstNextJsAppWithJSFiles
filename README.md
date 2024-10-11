@@ -1,0 +1,2 @@
+# firstNextJsAppWithJSFiles
+.js files
